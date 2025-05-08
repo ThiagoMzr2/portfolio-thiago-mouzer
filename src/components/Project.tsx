@@ -7,6 +7,10 @@ import mock05 from '../assets/images/bi5.png';
 import mock06 from '../assets/images/bi6.png';
 import mock07 from '../assets/images/bi7.png';
 import mock08 from '../assets/images/bi8.png';
+import cert1 from '../assets/images/cert1.png';
+import cert2 from '../assets/images/cert2.png';
+import cert3 from '../assets/images/cert3.png';
+import cert4 from '../assets/images/cert4.png';
 import '../assets/styles/Project.scss';
 
 // href="" target="_blank" (SE EU QUISER DEPOIS LINKAR PARA OUTRA ABA OU SITE)
@@ -57,6 +61,29 @@ function Project() {
                     <a rel="noreferrer"><h2>Segmentação de Clientes para Estratégias de Marketing</h2></a>
                     <p>Este dashboard de Business Intelligence analisa a base de 500 clientes por meio da segmentação em três grupos distintos, apresentando métricas como idade média, renda anual, pontuação média de gastos e quantidade de clientes por segmento. Ele fornece insights valiosos para direcionamento de campanhas e estratégias de marketing.</p>
                 </div>
+                <h1>Certificados</h1>
+                <p></p>
+                <div className="project">
+                    <a rel="noreferrer"><img src={cert1} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a rel="noreferrer"><h2>Microsoft Power BI Para Business Intelligence e Data Science</h2></a>
+                </div>
+                <div className="project">
+                    <a rel="noreferrer"><img src={cert2} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a rel="noreferrer"><h2>Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Básico</h2></a>
+                </div>
+                <div className="project">
+                    <a rel="noreferrer"><img src={cert3} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a rel="noreferrer"><h2>Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Introdutório</h2></a>
+                </div>
+
+                <div className="project">
+                    <a rel="noreferrer"><img src={cert4} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a rel="noreferrer"><h2>Vencedor Nasa Space Apps Niterói e Finalista Global pela Equipe Ufo Do Rio</h2></a>
+                </div>
+
+
+
+
             </div>
         </div>
     );
