@@ -18,7 +18,7 @@ import '../assets/styles/Project.scss';
 function Project() {
     return (
         <div className="projects-container" id="projects">
-            <h1>Projetos Pessoais</h1>
+            <h1>Projetos e Certificados</h1>
             <div className="projects-grid">
                 <div className="project">
                     <a rel="noreferrer"><img src={mock08} className="zoom" alt="thumbnail" width="100%" /></a>
@@ -61,7 +61,7 @@ function Project() {
                     <a rel="noreferrer"><h2>Segmentação de Clientes para Estratégias de Marketing</h2></a>
                     <p>Este dashboard de Business Intelligence analisa a base de 500 clientes por meio da segmentação em três grupos distintos, apresentando métricas como idade média, renda anual, pontuação média de gastos e quantidade de clientes por segmento. Ele fornece insights valiosos para direcionamento de campanhas e estratégias de marketing.</p>
                 </div>
-                <h1>Certificados</h1>
+                <br></br>
                 <p></p>
                 <div className="project">
                     <a rel="noreferrer"><img src={cert1} className="zoom" alt="thumbnail" width="100%" /></a>
