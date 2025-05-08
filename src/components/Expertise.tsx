@@ -36,11 +36,6 @@ const labelsFive = [
 ];
 
 
-
-
-
-
-
 function Expertise() {
     return (
     <div className="container" id="expertise">
