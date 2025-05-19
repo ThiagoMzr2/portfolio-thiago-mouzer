@@ -11,6 +11,7 @@ import cert1 from '../assets/images/cert1.png';
 import cert2 from '../assets/images/cert2.png';
 import cert3 from '../assets/images/cert3.png';
 import cert4 from '../assets/images/cert4.png';
+import cert5 from '../assets/images/cert5.png';
 import '../assets/styles/Project.scss';
 
 // href="" target="_blank" (SE EU QUISER DEPOIS LINKAR PARA OUTRA ABA OU SITE)
@@ -74,6 +75,11 @@ function Project() {
                 <div className="project">
                     <a rel="noreferrer"><img src={cert3} className="zoom" alt="thumbnail" width="100%" /></a>
                     <a rel="noreferrer"><h2>Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Introdutório</h2></a>
+                </div>
+
+                <div className="project">
+                    <a rel="noreferrer"><img src={cert5} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a rel="noreferrer"><h2>Fundamentos de Linguagem Python para Análise de Dados e Data Science - Nível Intermediário</h2></a>
                 </div>
 
                 <div className="project">
