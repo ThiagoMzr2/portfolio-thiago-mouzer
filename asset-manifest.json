@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-thiago-mouzer/static/css/main.23708ef5.css",
-    "main.js": "/portfolio-thiago-mouzer/static/js/main.19cabb27.js",
+    "main.js": "/portfolio-thiago-mouzer/static/js/main.dace44df.js",
     "static/js/453.601c434a.chunk.js": "/portfolio-thiago-mouzer/static/js/453.601c434a.chunk.js",
     "static/media/cert1.png": "/portfolio-thiago-mouzer/static/media/cert1.2c35a1a6e7117171eba7.png",
     "static/media/th.png": "/portfolio-thiago-mouzer/static/media/th.cc2264dea4c7541b468b.png",
@@ -11,21 +11,27 @@
     "static/media/bg-light.png": "/portfolio-thiago-mouzer/static/media/bg-light.bac0efb485244a522981.png",
     "static/media/bg-dark.png": "/portfolio-thiago-mouzer/static/media/bg-dark.f420c6b8458af72de935.png",
     "static/media/cert4.png": "/portfolio-thiago-mouzer/static/media/cert4.b28b2bc426f1d754af1c.png",
+    "static/media/cert10.png": "/portfolio-thiago-mouzer/static/media/cert10.eebd6f4d48d6b3314e03.png",
+    "static/media/cert8.png": "/portfolio-thiago-mouzer/static/media/cert8.38991cf177ef177b6cf3.png",
+    "static/media/cert11.png": "/portfolio-thiago-mouzer/static/media/cert11.9f722cd076dd21de2b72.png",
+    "static/media/cert7.png": "/portfolio-thiago-mouzer/static/media/cert7.2f65a631e4862073e6e1.png",
     "static/media/bi6.png": "/portfolio-thiago-mouzer/static/media/bi6.8991b8d4ef303ca8ee74.png",
     "static/media/bi8.png": "/portfolio-thiago-mouzer/static/media/bi8.455268e54e91e32d23fb.png",
     "static/media/bi3.png": "/portfolio-thiago-mouzer/static/media/bi3.f696911cdc9f401cd1a0.png",
     "static/media/bi7.png": "/portfolio-thiago-mouzer/static/media/bi7.aa89e7c1d6a70b9f07fd.png",
+    "static/media/cert9.png": "/portfolio-thiago-mouzer/static/media/cert9.61c84d9215632d651aa9.png",
     "static/media/bi1.png": "/portfolio-thiago-mouzer/static/media/bi1.932a93d4c6f5710125d7.png",
     "static/media/bi5.png": "/portfolio-thiago-mouzer/static/media/bi5.802d60e7f3a665ce2bb8.png",
     "static/media/bi2.png": "/portfolio-thiago-mouzer/static/media/bi2.248f3488054680552d93.png",
     "static/media/bi4.png": "/portfolio-thiago-mouzer/static/media/bi4.4e720c6838d4e85cbaf3.png",
+    "static/media/cert6.jpg": "/portfolio-thiago-mouzer/static/media/cert6.1ec5b005ba789f02894a.jpg",
     "index.html": "/portfolio-thiago-mouzer/index.html",
     "main.23708ef5.css.map": "/portfolio-thiago-mouzer/static/css/main.23708ef5.css.map",
-    "main.19cabb27.js.map": "/portfolio-thiago-mouzer/static/js/main.19cabb27.js.map",
+    "main.dace44df.js.map": "/portfolio-thiago-mouzer/static/js/main.dace44df.js.map",
     "453.601c434a.chunk.js.map": "/portfolio-thiago-mouzer/static/js/453.601c434a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23708ef5.css",
-    "static/js/main.19cabb27.js"
+    "static/js/main.dace44df.js"
   ]
 }
