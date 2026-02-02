@@ -1,9 +1,10 @@
 {
   "files": {
     "main.css": "/portfolio-thiago-mouzer/static/css/main.23708ef5.css",
-    "main.js": "/portfolio-thiago-mouzer/static/js/main.dace44df.js",
+    "main.js": "/portfolio-thiago-mouzer/static/js/main.d5607569.js",
     "static/js/453.601c434a.chunk.js": "/portfolio-thiago-mouzer/static/js/453.601c434a.chunk.js",
     "static/media/cert1.png": "/portfolio-thiago-mouzer/static/media/cert1.2c35a1a6e7117171eba7.png",
+    "static/media/cert12.png": "/portfolio-thiago-mouzer/static/media/cert12.f7a9ed358fdd8475c6a6.png",
     "static/media/th.png": "/portfolio-thiago-mouzer/static/media/th.cc2264dea4c7541b468b.png",
     "static/media/cert3.png": "/portfolio-thiago-mouzer/static/media/cert3.d865acb40cbb32c22426.png",
     "static/media/cert2.png": "/portfolio-thiago-mouzer/static/media/cert2.4c0664af74598e77cc4a.png",
@@ -27,11 +28,11 @@
     "static/media/cert6.jpg": "/portfolio-thiago-mouzer/static/media/cert6.1ec5b005ba789f02894a.jpg",
     "index.html": "/portfolio-thiago-mouzer/index.html",
     "main.23708ef5.css.map": "/portfolio-thiago-mouzer/static/css/main.23708ef5.css.map",
-    "main.dace44df.js.map": "/portfolio-thiago-mouzer/static/js/main.dace44df.js.map",
+    "main.d5607569.js.map": "/portfolio-thiago-mouzer/static/js/main.d5607569.js.map",
     "453.601c434a.chunk.js.map": "/portfolio-thiago-mouzer/static/js/453.601c434a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.23708ef5.css",
-    "static/js/main.dace44df.js"
+    "static/js/main.d5607569.js"
   ]
 }
